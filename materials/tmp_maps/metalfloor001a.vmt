@@ -1,0 +1,14 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "tmp_maps/metalfloor001a"
+	"$surfaceprop" "metal"
+	"%keywords" "tmp_maps"
+	"$bumpmap" "Metal/metalfloor001a_normal"
+	"$envmaptint" "[ .56 .56 .56 ]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"%noportal" 1
+}

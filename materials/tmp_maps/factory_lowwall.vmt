@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/factory_lowwall"
+	"$bumpmap" "tmp_maps/factory_lowwall_normal"
+	"$surfaceprop" "brick"
+	
+}

@@ -1,0 +1,6 @@
+ "LightMappedGeneric"
+ {
+  "$baseTexture" "tmp_maps/signs_glass"
+  "$selfillum" 1
+  "$surfaceprop" "glass"
+ }

@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$basetexture" "tmp_maps/fb_intro_credits01"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+	
+}

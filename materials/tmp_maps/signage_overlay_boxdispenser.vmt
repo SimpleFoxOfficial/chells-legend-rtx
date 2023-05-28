@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tmp_maps/signage_overlay_boxdispenser"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+	"%keywords" "portal"
+}

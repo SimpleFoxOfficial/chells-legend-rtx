@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "tmp_maps/moon_rays"
+	"$additive" 1
+	"%keywords" "portal"
+}

@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "tmp_maps/dirt_floor_01_grass"
+	"$basetexture2" "tmp_maps/dirt_floor_01_dirt"
+	"%tooltexture" "tmp_maps/dirt_floor_01"
+	"%keywords" "blend"
+}

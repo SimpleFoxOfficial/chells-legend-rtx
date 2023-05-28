@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "tmp_maps/numbers_1_10"
+	"$surfaceprop" "glass"
+	
+}

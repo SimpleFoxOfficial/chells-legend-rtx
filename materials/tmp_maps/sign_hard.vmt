@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$basetexture" "tmp_maps/sign_hard"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+	
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tmp_maps/metal_modular_floor_nsp"
+	"$surfaceprop" "metal"
+	"%keywords" "portal"
+	"%noportal" 1
+	"$bumpmap" "tmp_maps/metal_modular_floor_nsp"
+	"$ssbump" "1"
+
+}

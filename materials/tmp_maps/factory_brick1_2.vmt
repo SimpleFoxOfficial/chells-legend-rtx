@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/factory_brick1_2"
+	"$translucent" "1"
+	"$bumpmap" "tmp_maps/factory_brick1_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$surfaceprop" "brick"
+	"$envmap" "env_cubemap"
+}

@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$basetexture" "tmp_maps/laps_go"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+	
+}

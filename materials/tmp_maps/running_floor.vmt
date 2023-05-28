@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/running_floor"
+	"$bumpmap" "tmp_maps/running_floor_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$surfaceprop" "concrete"
+	"$envmap" "env_cubemap"
+	"%noportal" 1
+}

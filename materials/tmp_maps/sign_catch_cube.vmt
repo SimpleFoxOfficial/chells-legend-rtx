@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tmp_maps/sign_catch_cube"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+	"%keywords" "portal"
+}

@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/slowmo001"
+	"$selfillum" 1
+	"$surfaceprop" "metal"
+	
+}
