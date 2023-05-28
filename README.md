@@ -22,3 +22,14 @@ How to install?
 4. Start Portal RTX
 5. Open Console (with ~ symbol) and write map chells_legend_intro
 6. Done!
+
+FAQ
+----
+Q: It doesn't look good in some locations!!!
+
+A: Yes, because it's incomplete.
+
+----
+Q: Why the mod have white screen after the level with energy ball?
+
+A: I don't know, the mod is incomplete itself, and RTX is very buggy too for now.
