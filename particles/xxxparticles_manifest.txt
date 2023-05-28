@@ -1,0 +1,10 @@
+particles_manifest
+{
+	
+	"file"		"particles/advisor.pcf"
+	"file"		"particles/Advisor_FX.pcf"		
+}
+
+//Put an ! in a file path like so... 
+	//"file"		"!particles/blood_impact.pcf"
+//To auto precache it so that the game instantly recognizes it on start up. "You must do this if you precache particles //or call particles in a C++ LINE OF //CODE."
