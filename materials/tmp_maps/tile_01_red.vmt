@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/tile_01_red"
+	"$bumpmap" "tmp_maps/tile_01_red_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"%noportal" 1
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "tmp_maps/white_gradient"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+}
