@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/chfb_carpet_01"
+	"$bumpmap" "tmp_maps/chfb_carpet_01_normal"
+	"$surfaceprop" "carpet"
+	
+}

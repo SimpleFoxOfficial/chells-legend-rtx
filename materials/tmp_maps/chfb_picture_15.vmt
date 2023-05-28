@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/chfb_picture_15"
+	"%noportal" 1
+	"$envmapmask" "tmp_maps/chfb_pictures_ref"
+	"$envmap" env_cubemap
+
+}

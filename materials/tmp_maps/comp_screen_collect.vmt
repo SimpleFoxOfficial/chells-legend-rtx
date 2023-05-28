@@ -1,0 +1,9 @@
+"unlitgeneric"
+
+ {
+ 	 "$baseTexture" "tmp_maps/comp_screen_collect"
+    	 "$surfaceprop" "glass"
+  
+
+
+ }

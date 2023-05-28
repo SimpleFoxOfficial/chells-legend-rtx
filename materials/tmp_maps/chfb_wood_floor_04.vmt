@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/chfb_wood_floor_04"
+	"$bumpmap" "tmp_maps/chfb_wood_floor_01_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+}

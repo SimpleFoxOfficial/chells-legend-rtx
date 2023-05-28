@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$basetexture" "tmp_maps/credits1"
+	"$translucent" 1
+	"$surfaceprop" "brick"
+	
+}

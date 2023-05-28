@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/chfb_wood_cabinet_01"
+	"%noportal" 1
+	"$envmapmask" "tmp_maps/chfb_wood_cabinet_01_ref"
+	"$envmap" env_cubemap
+
+}

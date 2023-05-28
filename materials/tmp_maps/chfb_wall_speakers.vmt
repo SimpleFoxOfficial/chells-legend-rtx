@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/chfb_wall_speakers"
+	"$bumpmap" "tmp_maps/chfb_wall_speakers_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"%noportal" 1
+}

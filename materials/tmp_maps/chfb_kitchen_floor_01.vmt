@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "tmp_maps/chfb_kitchen_floor_01"
+	"$bumpmap" "tmp_maps/chfb_kitchen_floor_01_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+}

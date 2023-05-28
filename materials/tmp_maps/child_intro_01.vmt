@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "tmp_maps/child_intro_01"
+	"$surfaceprop" "brick"
+	
+}
