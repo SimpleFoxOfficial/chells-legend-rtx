@@ -1,0 +1,15 @@
+"unlitgeneric"
+{
+   "$basetexture" "chell_legend_animated_movie_test/chelltv"
+   "Proxies"
+   {
+      "MaterialModifyAnimated"
+      {
+	
+        "animatedtexturevar" "$basetexture"
+        "animatedtextureframenumvar" "$frame"
+        "animatedtextureframerate" 29
+      }
+
+
+   }
