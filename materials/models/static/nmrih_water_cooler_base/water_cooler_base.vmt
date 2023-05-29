@@ -1,0 +1,9 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models\static\nmrih_water_cooler_base/water_cooler_base"
+	//"$bumpmap" "models\static\nmrih_water_cooler_base/water_cooler_base_normal"
+	//"$envmap" "env_cubemap"
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" .5
+	
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player/chell_hair"
+
+	"$translucent" 1
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$nocull" 1 
+
+}

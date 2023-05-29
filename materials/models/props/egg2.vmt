@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "models/props/egg2"
+
+	
+	
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" ".2"
+	
+	"$phongfresnelranges"	"[.25 .2 4]"
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" 2
+	"$rimlightboost" .4
+}
