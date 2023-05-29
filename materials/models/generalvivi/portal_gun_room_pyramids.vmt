@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/portal_gun_room_pyramids"
+	"$envmapmask" "models/generalvivi/portal_gun_room_pyramids_ref"
+	"$envmap" "env_cubemap"
+
+}

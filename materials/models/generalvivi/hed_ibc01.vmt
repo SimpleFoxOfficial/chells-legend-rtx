@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/hed_ibc01"
+	"%noportal" 1
+}

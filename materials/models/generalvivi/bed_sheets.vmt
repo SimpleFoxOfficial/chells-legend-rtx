@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/bed_sheets"
+	"%noportal" 1
+	"$bumpmap" "models/generalvivi/bed_sheets_normal"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/generalvivi/hazard_orange_03b"
+	"$selfillum" 1
+	"%keywords" "vivi"
+}

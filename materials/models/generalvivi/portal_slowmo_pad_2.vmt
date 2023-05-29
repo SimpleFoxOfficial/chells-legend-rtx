@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/portal_slowmo_pad_2"
+	"$bumpmap" "models/generalvivi/portal_slowmo_pad_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$envmap" "env_cubemap"
+
+}

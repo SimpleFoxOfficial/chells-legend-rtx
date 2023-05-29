@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/running_floor_d"
+	"$bumpmap" "models/generalvivi/running_floor_d_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$envmap" "env_cubemap"
+	"%noportal" 1
+}

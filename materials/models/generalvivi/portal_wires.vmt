@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/portal_wires"
+	"%noportal" 1
+}

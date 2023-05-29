@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/chell_trophies"
+	"%noportal" 1
+	"$bumpmap" "models/generalvivi/chell_trophies_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$envmap" "env_cubemap"
+
+}

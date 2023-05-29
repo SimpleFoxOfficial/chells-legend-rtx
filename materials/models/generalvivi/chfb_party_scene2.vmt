@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$nocull" "1"	
+	"$basetexture" "models/generalvivi/chfb_party_scene2"
+	"$nocull" "1"
+	"$bumpmap" "models/generalvivi/chfb_party_scene_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$envmap" "env_cubemap"
+
+}

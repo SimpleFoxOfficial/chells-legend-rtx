@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/generalvivi/chfb_big_screen_tv"
+	"%noportal" 1
+	"$envmapmask" "models/generalvivi/chfb_big_screen_tv_ref"
+	"$envmap" "env_cubemap"
+}
