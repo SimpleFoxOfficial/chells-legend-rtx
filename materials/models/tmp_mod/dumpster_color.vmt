@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/tmp_mod/dumpster_color"
+	"$bumpmap" "models/tmp_mod/dumpster_color_normal"
+	"$normalmapalphaenvmapmask" 1 
+	"$envmap" "env_cubemap"
+}

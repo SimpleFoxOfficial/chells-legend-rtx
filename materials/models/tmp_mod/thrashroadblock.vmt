@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/tmp_mod/thrashroadblock"
+	"$surfaceprop" "plastic"
+}

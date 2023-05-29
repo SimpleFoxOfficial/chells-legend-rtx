@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/tmp_mod/fallout_tiretrailer_dryer"
+	"$bumpmap" "models/tmp_mod/fallout_tiretrailer_dryer_normal"
+}

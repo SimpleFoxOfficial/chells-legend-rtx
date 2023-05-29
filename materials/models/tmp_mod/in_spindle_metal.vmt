@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/tmp_mod/in_spindle_metal"
+	"$bumpmap" "models/tmp_mod/in_spindle_metal_normal"
+}
