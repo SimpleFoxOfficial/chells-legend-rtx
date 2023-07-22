@@ -17,8 +17,8 @@ There's some screenshots of progress made until 5-18-2023
 How to install?
 ----
 1. Download all files
-2. Put rtx.conf into *your disk*:\ProgramFiles(x86)\Steam\steamapps\common\PortalRTX
-3. Put all other files into *your disk*:\ProgramFiles(x86)\Steam\steamapps\common\PortalRTX\portal_rtx , if it will ask, overwrite it.
+2. Put rtx.conf into `*your disk*:\ProgramFiles(x86)\Steam\steamapps\common\Portal Prelude RTX`
+3. Put all other files into `*your disk*:\ProgramFiles(x86)\Steam\steamapps\common\PortalRTX\portal prelude rtx` , if it will ask, overwrite it.
 4. Start Portal RTX
 5. Open Console (with ~ symbol) and write map chells_legend_intro
 6. Done!
