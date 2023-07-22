@@ -33,3 +33,8 @@ A: Yes, because it's incomplete.
 Q: Why the mod have white screen after the level with energy ball?
 
 A: I don't know, the mod is incomplete itself, and RTX is very buggy too for now.
+
+----
+Q: Why do you making RTXish the mod, that is incomplete? It's useless.
+
+A: I just love the mod and it's aesthetics.
