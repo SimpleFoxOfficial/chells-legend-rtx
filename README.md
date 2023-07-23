@@ -21,7 +21,7 @@ How to install?
 1. Download all files
 2. Put rtx.conf into `*your disk*:\ProgramFiles(x86)\Steam\steamapps\common\Portal Prelude RTX`
 3. Put all other files into `*your disk*:\ProgramFiles(x86)\Steam\steamapps\common\PortalRTX\portal prelude rtx` , if it will ask, overwrite it.
-4. Start Portal RTX
+4. Start Portal Prelude RTX
 5. Open Console (with ~ symbol) and write map chells_legend_intro
 6. Done!
 
