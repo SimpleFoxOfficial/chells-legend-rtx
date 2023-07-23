@@ -14,6 +14,8 @@ There's some screenshots of progress made until 5-18-2023
 ----
 ![](https://media.discordapp.net/attachments/509754353947508756/1112468730245558272/20230528225248_1.jpg?width=1663&height=702)
 
+Latest gameplay video: https://youtu.be/IrIhV82gnaM
+
 How to install?
 ----
 1. Download all files
